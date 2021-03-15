@@ -24,7 +24,7 @@
 
 ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 
-### My PC
+### My computer
 * 💻 MacBook Pro (Retina, 15-inch)
 * Processor 2,8 GHz Quad-Core Intel Core i7
 * Memory 16 GB DDR3
