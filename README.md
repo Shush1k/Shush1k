@@ -10,7 +10,7 @@
 [![VK Badge](https://img.shields.io/badge/-shush1k__s-black?style=flat&logo=VK&logoColor=white)](https://vk.com/shush1k_s "Contact on VK")
 
 ## Interesting in
-Backend Development using Python and Frameworks such as Django & Django Rest Framework. API is great power.
+Backend Development using Python and Frameworks such as Django & Django Rest Framework.
 
 ## Skills & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
